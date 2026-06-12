@@ -1,0 +1,6 @@
+{
+  "name": "Bookstore",
+  "description": "An elegant, interactive, and professional bookstore storefront featuring a premium curated catalog, search and filters, custom reviews, shopping cart, and a full checkout order flow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
